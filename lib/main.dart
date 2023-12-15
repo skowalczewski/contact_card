@@ -26,7 +26,7 @@ class ContactCard extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Contact Card'),
       ),
-      body: Text("Hello World!"),
+      body: Text('Hello World!'),
     );
   }
 }
