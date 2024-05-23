@@ -1,6 +1,6 @@
 # contact_card
 
-A contact card showing an image and text.
+A template to begin the **Contact Card** task.  We will add additional text and an image.
 
 ## Getting Started
 
